@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="SyachOS" width="100%">
+  <img src="./assets/banner.svg" alt="SyachOS" width="50%">
 </p>
 
 <p align="center">
