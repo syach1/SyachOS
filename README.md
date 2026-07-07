@@ -1,15 +1,12 @@
-
 <p align="center">
   <img src="./assets/banner.svg" alt="SyachOS" width="100%">
 </p>
-
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=G0Obn38-Oo8">
     <img src="https://img.youtube.com/vi/G0Obn38-Oo8/maxresdefault.jpg" alt="Watch the SyachOS demo" width="640">
   </a>
 </p>
--->
 
 <div align="center">
 
